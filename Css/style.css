@@ -16,6 +16,9 @@ body {
   margin-left: 20%;
   margin-right: 20%;
 }
+#struggle {
+  color: yellow;
+}
 
 footer {
   background-color: #f1f1f1;
